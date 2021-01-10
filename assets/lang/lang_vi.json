@@ -1,0 +1,16 @@
+{
+  "hello": "Xin chào",
+  "app_title": "Thử thách giao diện Flutter",
+  "sign_in_your_account": "Đăng nhập tài khoản của bạn",
+  "login_page_email_form_hint": "Địa chỉ email",
+  "login_page_password_form_hint": "Mật khẩu",
+  "login_page_forgot_password": "Quên mật khẩu?",
+  "login_page_do_not_have_account": "Không có tài khoản?",
+  "login_page_register_now": "Đăng ký ngay",
+  "login_page_2_app_title": "Ứng dụng làm đẹp",
+  "login_page_2_app_name": "Namaste!",
+  "login_page_2_text_guide": "Chào mừng bạn đến với ứng dụng tuyệt vời này. Chúng tôi rất vui khi bạn sử dụng ứng dụng của chúng tôi.",
+  "login_page_2_user_name": "Tên đăng nhập",
+  "login_page_create_new_account": "Tạo tài khoản mới",
+  "continue": "Tiếp tục"
+}

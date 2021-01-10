@@ -1,0 +1,16 @@
+{
+  "hello": "Hello!",
+  "app_title": "Flutter UI Challenge",
+  "sign_in_your_account": "Sign in your account",
+  "login_page_email_form_hint": "Email address",
+  "login_page_password_form_hint": "Password",
+  "login_page_forgot_password": "Forgot your password?",
+  "login_page_do_not_have_account": "Don't have account?",
+  "login_page_register_now": "Register now",
+  "login_page_2_app_title": "Beautiful App",
+  "login_page_2_app_name": "Namaste!",
+  "login_page_2_text_guide": "Welcome to this awesome app. We are so happy that you are using our app.",
+  "login_page_user_name": "Username",
+  "login_page_create_new_account": "Create new account",
+  "continue": "Continue"
+}
